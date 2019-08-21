@@ -1,0 +1,14 @@
+name: TestSpigotPlugin
+version: ${project.version}
+main: me.seriousguy888.testspigotplugin.TestSpigotPlugin
+api-version: 1.13
+prefix: TestSpigot
+authors: [SeriousGuy888]
+description: Test plugin made by SeriousGuy888.
+commands:
+  feed:
+    description: eat air
+  news:
+    description: olds
+  setnews:
+    description: set the olds
